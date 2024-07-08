@@ -90,14 +90,7 @@ This case study demonstrates the application of data analysis skills to real-wor
 
 - **Data/**: Contains the dataset used for the analysis.
 - **capstone-case-study-bellabeat.ipynb/**: Contains scripts for data cleaning, analysis, and visualization.
-- **reports/**: Contains the final report and visualizations.
 - **README.md**: This file.
-
-## Usage
-
-1. Clone the repository.
-2. Follow the steps outlined in the `scripts` directory to process and analyze the data.
-3. Refer to the `reports` directory for the final report and visualizations.
 
 ---
 
@@ -107,5 +100,3 @@ This case study demonstrates the application of data analysis skills to real-wor
 - Kaggle for the FitBit Fitness Tracker Data.
 
 ---
-
-Feel free to customize this README further to suit your specific needs and preferences.
